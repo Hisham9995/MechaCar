@@ -11,14 +11,12 @@ This project is about analyzing metrics can  impact manufacturing a new car prot
 
 
 
+![linear_regression_summary PNG](https://user-images.githubusercontent.com/82621077/128645809-ab470c41-3060-4c22-9568-d2a9e6efd934.png)
 
 
-![linear_regression PNG](https://user-images.githubusercontent.com/82621077/128645603-81770b52-b17e-4ba7-a468-11a915d93999.png)
+In the summary output, each Pr(>|t|) value represents the probability that each coefficient contributes a random amount of variance to the linear model. According to our results vehicle length and ground clearance (and Intercept) provide a non-random amount of variance to the linear model of mpg. At a significance level of 0.05, we are able to reject the null hypothesis because of the extremely small p-value. 
+The null hypothesis of a linear regression explains  that the slope (β1) is  equal to 0 . However, if we reject the null hypthesis, we're stating that alternative (β1 ≠ 0)  proving that the slope is not 0.
+Multiple R-squared increases as more variables are passed through the regression. However, adjusted R-squared controls against this increase, and adds penalties for the number of predictors in the model, a more accurate of how effective the linear model is. An adjusted R-square of 0.6825 concludes that this linear model predicts the mpg of MechaCar prototypes relatively well.
 
-__Call:
-lm(formula = mpg ~ vehicle_length + vehicle_weight + spoiler_angle + 
-    ground_clearance + AWD, data = mecha_car_mpg)__
 
-__Coefficients:
-     (Intercept)    vehicle_length    vehicle_weight     spoiler_angle  ground_clearance               AWD  
-      -1.040e+02         6.267e+00         1.245e-03         6.877e-02         3.546e+00        -3.411e+00__  
+  
