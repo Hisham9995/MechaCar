@@ -45,7 +45,7 @@ The design specifications for the MechaCar suspension coil in  the  dataset indi
 
 
 
-First of all (manufacturing lots and  the population mean of 1,500 pounds per square inch)    At a significance level of 0.05, we fail to reject the null hypothesis since the p-value equals 0.06.  we cannot reject the fact that the sample mean may be equivalent to the true population mean. Another feature to note is the narrow confidence interval. Although a narrower confidence interval mostly provides accurate than a wider interval 
+First of all   At a significance level of 0.05, we fail to reject the null hypothesis since the p-value equals 0.06.  we cannot reject the fact that the sample mean may be equivalent to the true population mean. Another feature to note is the narrow confidence interval. Although a narrower confidence interval mostly provides accurate than a wider interval 
 
 
 1- __lot no 1__ Here the p-value is below the significance level of 0.05 percent, so we can reject the null hypothesis and conclude that the PSI across the Lot 1 is statistically different from the population mean.
