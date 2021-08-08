@@ -58,7 +58,7 @@ First of all   At a significance level of 0.05, we fail to reject the null hypot
 # Study Design: MechaCar vs Competition
 
 
-To compare the performance of the MechaCar prototype against the vehicles from the competition, we will perform a statistical analysis  linear regression on city and highway fuel efficiency. Gasoline is expensive nowadays, and it is an important feature that many consumers look at when purchasing a new car. based on the following metrics:
+To compare the performance of the MechaCar prototype against the vehicles from the competition, we will perform a statistical analysis  linear regression on city and highway fuel efficiency. (Gasoline), and it is an important feature that many consumers look at when purchasing a new car. based on the following metrics:
 
 1) __Fuel efficiency (City and highway) MPG__
 2) __Horse power: 0 to 60 mph" time__
