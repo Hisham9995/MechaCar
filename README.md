@@ -67,7 +67,7 @@ To compare the performance of the MechaCar prototype against the vehicles from t
 5) __AWD capabilities__
 
 The null hypothesis would be: each performance metrics is statistically similar between the MechaCar prototype and all vehicle from the other manufacturers.
-We would use a one-way ANOVA test. To check if the mean of two or more groups are significantly different from each other.
+We would use a one-way ANOVA test. To check if the mean of two or more groups are significantly different from each other.This test is used to compare the means of a continuous numerical variable across a number of groups.
 So in this analysis we would compare the mean for each metric across the different manufacturers.
 
 In order To perform the test, We need a data of MechaCar vehicles and its competition 
