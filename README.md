@@ -15,5 +15,10 @@ This project is about analyzing metrics can  impact manufacturing a new car prot
 
 ![linear_regression PNG](https://user-images.githubusercontent.com/82621077/128645603-81770b52-b17e-4ba7-a468-11a915d93999.png)
 
-mpg = 6.27 * vehicle_length + 1.25e-3 * vehicle_weigth + 6.88e-2 * spoiler_angle -3.41 * AWD + 3.55 * ground_clearance - 1.04e+2
-  
+__Call:
+lm(formula = mpg ~ vehicle_length + vehicle_weight + spoiler_angle + 
+    ground_clearance + AWD, data = mecha_car_mpg)__
+
+__Coefficients:
+     (Intercept)    vehicle_length    vehicle_weight     spoiler_angle  ground_clearance               AWD  
+      -1.040e+02         6.267e+00         1.245e-03         6.877e-02         3.546e+00        -3.411e+00__  
