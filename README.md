@@ -10,4 +10,7 @@ This project is about analyzing metrics can  impact manufacturing a new car prot
 
 
 
- ![linear_regression PNG](https://user-images.githubusercontent.com/82621077/128645589-bfc826bd-d615-4ef8-a9ae-2bd367535171.png)
+
+
+
+![linear_regression PNG](https://user-images.githubusercontent.com/82621077/128645603-81770b52-b17e-4ba7-a468-11a915d93999.png)
