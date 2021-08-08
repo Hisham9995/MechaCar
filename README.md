@@ -20,3 +20,12 @@ Multiple R-squared increases as more variables are passed through the regression
 
 
   
+## Summary Statistics on Suspension Coils
+
+
+
+
+
+
+![total_summary_table PNG](https://user-images.githubusercontent.com/82621077/128645881-4706d329-bbcc-47d3-9b3a-4eb2f4e374a6.png)
+![lot_summary_table PNG](https://user-images.githubusercontent.com/82621077/128645889-aa083548-7f90-47e4-939e-079a20ddf2c4.png)
